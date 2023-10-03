@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# VSCode settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Output of 'npm pack'
+*.tgz
+
+# npm
+*.npmrc
+
+# Yarn
+.yarn-integrity
+
+# Bower
+bower_components/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE files
+.idea/
+.vscode/
